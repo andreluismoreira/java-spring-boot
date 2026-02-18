@@ -2,7 +2,6 @@ package br.com.andre.controller;
 
 import br.com.andre.model.Person;
 import br.com.andre.service.PersonServices;
-import org.apache.catalina.connector.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

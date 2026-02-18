@@ -17,3 +17,8 @@ spring:
     show-sql: false
     open-in-view: false
 
+logging:
+  level:
+    br.com.andre: INFO
+
+
